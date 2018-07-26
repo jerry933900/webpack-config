@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    background-color: hotpink;
+    border:10px solid gray;
+}
+h2:hover{
+    font-size:100px;
+    transition: all 1s;
+}

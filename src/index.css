@@ -1,0 +1,9 @@
+h2{
+    background-color: hotpink;
+    border:10px solid gray;
+    color:yellowgreen;
+}
+h2:hover{
+    font-size:100px;
+    transition: all 1s;
+}
